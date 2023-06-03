@@ -1,0 +1,19 @@
+.goods-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 8px;
+    border: 1px solid;
+    border-radius: 8px;
+    flex: 1;
+    gap: 16px;
+    padding: 8px;
+    justify-content:space-around;
+}
+
+.goods-cart{
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 8px;
+    width: 250px;
+    height: 200px;
+}
